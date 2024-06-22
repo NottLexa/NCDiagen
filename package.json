@@ -1,0 +1,12 @@
+{
+  "name": "ncdiagen",
+  "version": "1.0.0",
+  "dependencies": {
+    "nw": "^0.68.0",
+    "node-file-dialog": "^1.0.3"
+  },
+  "main": "run_nwjs.js",
+  "scripts": {
+    "start": "nw ."
+  }
+}
